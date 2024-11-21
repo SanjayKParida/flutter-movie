@@ -26,6 +26,7 @@ A feature-rich movie application built using Flutter that allows users to browse
     <td><img src="screenshots/5.png" width="180"/></td>
     <td><img src="screenshots/6.png" width="180"/></td>
   </tr>
+</table>
 
 ## 👩‍💻 Technologies Used
 
