@@ -40,6 +40,7 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Movie App',
         theme: AppTheme.theme,
         home: const SplashPage(),
